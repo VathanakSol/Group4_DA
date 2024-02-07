@@ -21,5 +21,8 @@
 
 ![SOL_VATHANAK-2002-05-16](https://github.com/VathanakSol/Group4_DA/assets/102912156/2d0d2705-9fc9-4520-a981-538a7371f531)
 
--> Eung Lyzhia: 
+-> Eung Lyzhia: eunglyzhia@gmail.com
+
+![photo_2024-01-22_10-19-59](https://github.com/VathanakSol/Group4_DA/assets/102912156/c2309c42-8dea-4be2-96f8-0539c6983682)
+
 
