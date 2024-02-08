@@ -7,7 +7,7 @@ public class Main {
         // 1. Introduction to File I/O
         // Here is an example show how to read file (view) from local drive
         try{
-            FileReader fileReader = new FileReader("C:\\Users\\Kim Uy Computer\\Documents\\Textfile.txt");
+            FileReader fileReader = new FileReader("src/file/Textfile.txt");
             BufferedReader bufferedReader = new BufferedReader(fileReader);
             String line;
             while((line = bufferedReader.readLine()) != null){
